@@ -1,8 +1,8 @@
-# AirdropManager Project
+# Airdrop Manager
 
 ## Overview
 
-The AirdropManager project consists of a smart contract written in Solidity and a JavaScript script for initiating token airdrops to multiple addresses on the Ethereum blockchain. The project enables efficient distribution of ERC20 tokens to a predefined list of recipients.
+The AirdropManager consists of a smart contract written in Solidity and a JavaScript script for initiating token airdrops to multiple addresses on the Ethereum blockchain. The project enables efficient distribution of ERC20 tokens to a predefined list of recipients.
 
 ### Smart Contract
 

@@ -1,4 +1,4 @@
-require('dotenv').config(); //////////Load environment variables from .env file
+require('dotenv').config(); /////////Load environment variables from .env file
 
 const { Web3 } = require('web3'); // Importing Web3 using object destructuring
 const AirdropManagerABI = require('./abi/AirdropManager.json'); // ABI of AirdropManager contract
